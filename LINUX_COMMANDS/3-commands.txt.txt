@@ -1,0 +1,29 @@
+***Users Permissions***
+
+ls -l -> gives the list of directories with their permission state
+i.e. for owner, for group and for others which means whether or not 
+user can read, write and execute or whether group can read, write and execute 
+or if others can read, write and execute
+
+rwx = read write execute, for owner
+rwx = read write execute, for group
+rwx = read write execute, for others
+
+for owner let binary(r = 1, w = 1, x = 1),
+integer value of rwx = 7
+
+for group let binary(r = 1, w = 1, x = 0),
+integer value of rw- = 6
+
+for others let binary(r = 1, w = 0, x = 0),
+integer value of r-- = 4
+
+*NOW*
+to change the Users Permissions,
+write in the terminal:
+
+chmod 764 file_or_folder_name -> gives -rwxrw-r-- and changes the permissions 
+according to the binary input
+
+**Remember**
+-rwxrw-r-- shows the permission state of the file or folder

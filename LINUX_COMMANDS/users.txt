@@ -1,0 +1,13 @@
+1. Regular User -> User has access only to his own home directory
+
+2. Root User -> User has complete access to the system i.e. root user has got complete command over the system
+
+3. Root User is also known super User or ADMIN
+
+4. If a regular user gets a root access , then he can get access to other users directory 
+   just by adding "sudo" before any command such as " sudo mkdir "
+
+5. if he writes " sudo su " the system will automatically assume the user to be root user but
+   this is highly discouraged
+
+6. Service User -> they have their own account who have got to do a service such linux server etc.
