@@ -18,6 +18,8 @@ mkdir name_of_dir -> to create a directory
 
 touch file_name -> creates a file
 
+rm file_name -> deletes a file
+
 mv file_name name_of_dir/ -> moves the file in the directory
 
 cp file_name name_of_dir/ -> copies the file in the directory
@@ -25,3 +27,5 @@ cp file_name name_of_dir/ -> copies the file in the directory
 sudo apt-get update -> updates the list of softwares to be used
 
 sudo apt-get upgrade -> installs the list of softwares which needs to be upgraded
+
+sudo apt list --upgradable -> used to list upgradeable packages
