@@ -12,7 +12,7 @@ cd folder_name -> command takes us to a sub-directory
 
 cd .. -> to come out of the current directory
 
-tab button -> autocompletes the name of a file or folder
+***the "tab button" autocompletes the name of a file or folder***
 
 mkdir name_of_dir -> to create a directory
 
