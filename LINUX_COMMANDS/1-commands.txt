@@ -16,6 +16,8 @@ tab button -> autocompletes the name of a file or folder
 
 mkdir name_of_dir -> to create a directory
 
+mkdir -p folder/subfolder/subsubfolder -> can create sub-directories of a directory at a time
+
 touch file_name -> creates a file
 
 rm file_name -> deletes a file
