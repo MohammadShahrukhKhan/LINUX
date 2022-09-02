@@ -22,9 +22,15 @@ touch file_name -> creates a file
 
 rm file_name -> deletes a file
 
+rm -r folder_name -> deletes a directory
+
 mv file_name name_of_dir/ -> moves the file in the directory
 
+mv file_name new_file_name -> renames the file
+
 cp file_name name_of_dir/ -> copies the file in the directory
+
+cp file_name new_file_name -> copies the content of the file in a new file
 
 sudo apt-get update -> updates the list of softwares to be used
 
