@@ -16,7 +16,7 @@ cd .. -> to come out of the current directory
 
 mkdir name_of_dir -> to create a directory
 
-mkdir -p folder/subfolder/subsubfolder -> can create sub-directories of a directory at a time
+mkdir -p folder/subfolder/subsubfolder -> can create a directory and it's sub-directories at a time
 
 touch file_name -> creates a file
 
