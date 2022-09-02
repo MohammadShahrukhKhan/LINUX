@@ -22,7 +22,9 @@ touch file_name -> creates a file
 
 rm file_name -> deletes a file
 
-rm -r folder_name -> deletes a directory
+rm -r folder_name -> deletes a non-empty directory
+
+rm -d folder_name -> deletes an empty directory
 
 mv file_name name_of_dir/ -> moves the file in the directory
 
