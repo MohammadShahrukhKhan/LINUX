@@ -10,4 +10,4 @@
 5. if he writes " sudo su " the system will automatically assume the user to be root user but
    this is highly discouraged
 
-6. Service User -> they have their own account who have got to do a service such linux server etc.
+6. Service User -> they have their own account who have got to do a service such as linux server etc.
