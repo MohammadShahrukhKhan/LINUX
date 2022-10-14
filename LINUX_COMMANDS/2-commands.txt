@@ -22,7 +22,7 @@ printf "a sentence" (used to print a sentence)
 
 printf "in a new line\n" (this command prints in a new line)
 
+sudo apt install name_of_software (to install a software in the system)
+
 ***IMPORTANT: one.txt & ONE.txt are different i.e. a slight change can creates a big difference
 because linux has case sensitivity with naming***
-
-sudo apt install name_of_software (to install a software in the system)
