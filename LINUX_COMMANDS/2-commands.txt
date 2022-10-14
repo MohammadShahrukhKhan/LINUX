@@ -16,11 +16,11 @@ clear (clears the terminal)
 
 history (shows all the recent commands typed in the terminal)
 
-echo something in the terminal (to write something in the terminal)
+echo it in the terminal (add "echo" before a sentence to write it in the terminal)
 
-printf "a sentence" (used to print a sentence)
+printf "a sentence" (this command is used to print a sentence)
 
-printf "in a new line\n" (this command prints in a new line)
+printf "a sentence in a new line\n" (this command is used to print a sentence in a new line)
 
 sudo apt install name_of_software (to install a software in the system)
 
