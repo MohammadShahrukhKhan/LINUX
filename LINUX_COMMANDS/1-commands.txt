@@ -4,38 +4,38 @@ In cli, the instructions are given by issuing command line
 
 Run these commands in your linux terminal:
 
-ls -> for the list of all the folders within the directory
+ls (for the list of all the folders within the directory)
 
-pwd -> to know the working directory
+pwd (to know the current working directory)
 
-cd folder_name -> command takes us to a sub-directory
+cd folder_name (command takes us to a sub-directory)
 
-cd .. -> to come out of the current directory
+cd .. (to come out of the current directory)
 
 ***the "tab button" autocompletes the name of a file or folder***
 
-mkdir name_of_dir -> to create a directory
+mkdir name_of_dir (to create a directory)
 
-mkdir -p folder/subfolder/subsubfolder -> can create a directory and it's sub-directories at a time
+mkdir -p folder/subfolder/subsubfolder (can create a directory and it's sub-directories at a time)
 
-touch file_name -> creates a file
+touch file_name (creates a file)
 
-rm file_name -> deletes a file
+rm file_name (deletes a file)
 
-rm -r folder_name -> deletes a non-empty directory
+rm -r folder_name (deletes a non-empty directory)
 
-rm -d folder_name -> deletes an empty directory
+rm -d folder_name (deletes an empty directory)
 
-mv file_name name_of_dir/ -> moves the file in the directory
+mv file_name name_of_dir/ (moves the file in the directory)
 
-mv file_name new_file_name -> renames the file
+mv file_name new_file_name (renames the file)
 
-cp file_name name_of_dir/ -> copies the file in the directory
+cp file_name name_of_dir/ (copies the file in the directory)
 
-cp file_name new_file_name -> copies the content of the file in a new file
+cp file_name new_file_name (copies the content of the file in a new file)
 
-sudo apt-get update -> updates the list of softwares to be used
+sudo apt-get update (updates the list of softwares to be used)
 
-sudo apt-get upgrade -> installs the list of softwares which needs to be upgraded
+sudo apt-get upgrade (installs the list of softwares which needs to be upgraded)
 
-sudo apt list --upgradable -> used to list upgradeable packages
+sudo apt list --upgradable (used to list upgradeable packages)
