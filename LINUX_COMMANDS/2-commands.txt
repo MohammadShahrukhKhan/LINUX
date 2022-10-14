@@ -1,25 +1,25 @@
-ls -R -> lists the directories and the sub-directories within the present workimg directory
+ls -R (lists the directories and the sub-directories within the present workimg directory)
 here R stands for recursive
 
-touch .hidden_file_name -> creates a hidden file (must add dot "." before file name)
+touch .hidden_file_name (creates a hidden file (must add dot "." before file name))
 
-ls -a -> shows the hidden files along with non-hidden files
+ls -a (shows the hidden files along with non-hidden files)
 
-ls -r -> sorts the folder names from Z to A
+ls -r (sorts the folder names from Z to A)
 
-ls -t -> sorts the file by modification time, showing the last edited file first
+ls -t (sorts the file by modification time, showing the last edited file first)
 
-clear -> clears the terminal
+clear (clears the terminal)
 
-history -> shows all the recent commands typed in the terminal
+history (shows all the recent commands typed in the terminal)
 
-echo something -> to write "something" in the terminal
+echo something in the terminal (to write something in the terminal)
 
-printf "a sentence" -> used to print "a sentence"
+printf "a sentence" (used to print a sentence)
 
-printf "in a new line\n" -> this command prints "in a new line"
+printf "in a new line\n" (this command prints in a new line)
 
 ***IMPORTANT: one.txt & ONE.txt are different i.e. a slight change can creates a big difference
 because linux has case sensitivity with naming***
 
-sudo apt install name_of_software -> to install a software in the system
+sudo apt install name_of_software (to install a software in the system)
