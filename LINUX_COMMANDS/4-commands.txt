@@ -1,3 +1,6 @@
+
+Run these commands in your linux terminal:
+
 top (shows the top processes which consume maximun resources)
 
 ps (shows all current running processes)
