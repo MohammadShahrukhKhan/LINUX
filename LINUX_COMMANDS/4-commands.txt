@@ -1,18 +1,18 @@
-top -> shows the top processes which consume maximun resources
+top (shows the top processes which consume maximun resources)
 
-ps -> shows all current running processes
+ps (shows all current running processes)
 
-ps -a -> shows all the background running processes with current running processes
+ps -a (shows all the background running processes with current running processes)
 
-ps -ef -> used to find the PID (Process ID, Unique number of the process) of the process
+ps -ef (used to find the PID (Process ID, Unique number of the process) of the process)
 
-kill process_id -> stops the process having the given process_id
+kill process_id (stops the process having the given process_id)
 
-sudo su -> regular user becomes super user
+sudo su (regular user becomes super user)
 
-su - username -> become super user to regular user
+su - username (super user becomes regular user)
 
-vim file_name -> opens file in the vim editor of the terminal
+vim file_name (opens file in the vim editor of the terminal)
 
 ***type " i " in the vim editor to enter INSERT MODE before typing something in it***
 
@@ -22,5 +22,5 @@ type " :q " in the vim editor to exit without saving
 
 type " :wq " in the vim editor to save and exit
 
-***if by chance erased something/everything of the file in the vim editor***
+***if by chance erased something/anything/everything within the file in the vim editor***
 type " :q! " in the vim editor to restore erased data and exit
