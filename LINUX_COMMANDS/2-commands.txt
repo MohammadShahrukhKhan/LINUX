@@ -1,3 +1,6 @@
+
+Run these commands in your linux terminal:
+
 ls -R (lists the directories and the sub-directories within the present workimg directory)
 here R stands for recursive
 
