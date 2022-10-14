@@ -4,7 +4,7 @@ Run these commands in your linux terminal:
 ls -R (lists the directories and the sub-directories within the present workimg directory)
 here R stands for recursive
 
-touch .hidden_file_name (creates a hidden file (must add dot "." before file name))
+touch .hidden_file_name (creates a hidden file (must add dot (.) before file name))
 
 ls -a (shows the hidden files along with non-hidden files)
 
