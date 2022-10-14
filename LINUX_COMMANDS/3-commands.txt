@@ -1,4 +1,7 @@
+
 ***Users Permissions***
+
+Run these commands in your linux terminal:
 
 ls -l (shows the list of directories with their permission state
 i.e. for owner, for group and for others which means whether or not 
