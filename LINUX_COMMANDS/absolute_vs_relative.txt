@@ -1,2 +1,2 @@
-1. relative path -> move to the sub-directory within the directory, write " cd folder_name "
-2. absolute path -> move to the exact location of a directory, write " cd /folder1/foler2/folder3 "
+1. relative path (to move to the sub-directory within the directory, write " cd folder_name ")
+2. absolute path (to move to the exact location of a directory, write " cd /folder1/foler2/folder3 ")
