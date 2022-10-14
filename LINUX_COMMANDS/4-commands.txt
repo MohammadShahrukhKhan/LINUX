@@ -7,7 +7,7 @@ ps (shows all current running processes)
 
 ps -a (shows all the background running processes with current running processes)
 
-ps -ef (used to find the PID (Process ID, Unique number of the process) of the process)
+ps -ef (used to find the PID (Process ID) & Unique number of the process)
 
 kill process_id (stops the process having the given process_id)
 
